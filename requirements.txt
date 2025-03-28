@@ -8,7 +8,7 @@ torchao
 torchtext
 
 tensorflow
-tensorflow-metal # nur Apple-Silicon (M1 ...)
+# tensorflow-metal # nur Apple-Silicon (M1 ...)
 keras
 keras-nlp
 
