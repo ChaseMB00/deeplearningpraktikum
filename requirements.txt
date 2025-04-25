@@ -9,6 +9,7 @@ torchtext
 
 tensorflow
 tensorflow-metal # nur Apple-Silicon (M1 ...)
+tensorflow_datasets
 keras
 keras-nlp
 
