@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a498ef0-9e83-4679-ae92-46a4a86c588a" name="Changes" comment="comment out apple requirement" />
+    <list default="true" id="9a498ef0-9e83-4679-ae92-46a4a86c588a" name="Changes" comment="comment out apple requirement">
+      <change afterPath="$PROJECT_DIR$/notebooks/gan/dcgan_digits.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/gan/dcgan_fashion.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/gan/gan.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/gan/test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jupyter-settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/lecture_mnist_digits.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/lecture_mnist_digits.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,17 +37,9 @@
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {}
 }</component>
-  <component name="GitHubPullRequestState"><![CDATA[{
-  "prStates": [
-    {
-      "id": {
-        "id": "PR_kwDOOQFTNs6T4Os7",
-        "number": 3
-      },
-      "lastSeen": 1745570523057
-    }
-  ]
-}]]></component>
+  <component name="GitHubPullRequestState">{
+  &quot;prStates&quot;: []
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/ChaseMB00/deeplearningpraktikum.git&quot;,
@@ -60,7 +61,8 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;com.codeium.enabled&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/moritz/Downloads/mein_projekt&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/moritz/PycharmProjects/deeplearningpraktikum/notebooks/gan&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -70,6 +72,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/notebooks/gan" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="cuda_installed" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="jupyter-remote-141.69.58.30:3688" />
@@ -104,8 +111,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
-        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
       </set>
     </attachedChunks>
   </component>
@@ -127,7 +134,21 @@
       <workItem from="1743750884068" duration="2659000" />
       <workItem from="1744351878362" duration="3678000" />
       <workItem from="1745181087338" duration="113000" />
-      <workItem from="1745570384120" duration="314000" />
+      <workItem from="1745570384120" duration="711000" />
+      <workItem from="1745578950492" duration="31000" />
+      <workItem from="1746776862060" duration="672000" />
+      <workItem from="1747661524888" duration="2039000" />
+      <workItem from="1747666077694" duration="1172000" />
+      <workItem from="1747667714759" duration="1956000" />
+      <workItem from="1747900227311" duration="4000" />
+      <workItem from="1749044209910" duration="28000" />
+      <workItem from="1749047443689" duration="1123000" />
+      <workItem from="1749048606237" duration="307000" />
+      <workItem from="1749048934419" duration="2417000" />
+      <workItem from="1749071682443" duration="1365000" />
+      <workItem from="1749073074160" duration="1510000" />
+      <workItem from="1749075462094" duration="265000" />
+      <workItem from="1749076188352" duration="256000" />
     </task>
     <task id="LOCAL-00001" summary="changes 28.03.2025">
       <option name="closed" value="true" />
