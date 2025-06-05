@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a498ef0-9e83-4679-ae92-46a4a86c588a" name="Changes" comment="comment out apple requirement">
+    <list default="true" id="9a498ef0-9e83-4679-ae92-46a4a86c588a" name="Changes" comment="update ide file">
       <change afterPath="$PROJECT_DIR$/notebooks/gan/dcgan_digits.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/notebooks/gan/dcgan_fashion.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/notebooks/gan/gan.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/notebooks/gan/test.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jupyter-settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/lecture_mnist_digits.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/lecture_mnist_digits.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,6 +146,7 @@
       <workItem from="1749073074160" duration="1510000" />
       <workItem from="1749075462094" duration="265000" />
       <workItem from="1749076188352" duration="256000" />
+      <workItem from="1749116913352" duration="332000" />
     </task>
     <task id="LOCAL-00001" summary="changes 28.03.2025">
       <option name="closed" value="true" />
@@ -166,7 +164,31 @@
       <option name="project" value="LOCAL" />
       <updated>1744351991470</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add image generation">
+      <option name="closed" value="true" />
+      <created>1749117182955</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749117182955</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update ide file">
+      <option name="closed" value="true" />
+      <created>1749117198263</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749117198263</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update ide file">
+      <option name="closed" value="true" />
+      <created>1749117215854</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749117215854</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +208,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changes 28.03.2025" />
     <MESSAGE value="comment out apple requirement" />
-    <option name="LAST_COMMIT_MESSAGE" value="comment out apple requirement" />
+    <MESSAGE value="add image generation" />
+    <MESSAGE value="update ide file" />
+    <option name="LAST_COMMIT_MESSAGE" value="update ide file" />
   </component>
 </project>
