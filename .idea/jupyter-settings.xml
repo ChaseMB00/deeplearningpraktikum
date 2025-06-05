@@ -6,9 +6,6 @@
         <JupyterConnectionParameters>
           <option name="authType" value="notebook" />
           <option name="urlString" value="https://141.69.58.30:3688/" />
-          <authParams2>
-            <map />
-          </authParams2>
         </JupyterConnectionParameters>
       </list>
     </option>
@@ -19,9 +16,6 @@
             <JupyterConnectionParameters>
               <option name="authType" value="notebook" />
               <option name="urlString" value="https://141.69.58.30:3688/" />
-              <authParams2>
-                <map />
-              </authParams2>
             </JupyterConnectionParameters>
           </value>
         </entry>
