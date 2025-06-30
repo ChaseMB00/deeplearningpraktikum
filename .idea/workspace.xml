@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a498ef0-9e83-4679-ae92-46a4a86c588a" name="Changes" comment="update ide file">
-      <change afterPath="$PROJECT_DIR$/notebooks/gan/dcgan_digits.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/gan/dcgan_fashion.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/gan/gan.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/gan/test.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/lecture_mnist_digits.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/lecture_mnist_digits.ipynb" afterDir="false" />
+    <list default="true" id="9a498ef0-9e83-4679-ae92-46a4a86c588a" name="Changes" comment="add gan networks">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/gan/dcgan_digits.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/gan/dcgan_digits.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/gan/dcgan_fashion.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/gan/dcgan_fashion.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +57,7 @@
     &quot;com.codeium.enabled&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/moritz/PycharmProjects/deeplearningpraktikum/notebooks/gan&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/moritz/github/llm-pentest-agent&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -108,8 +106,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
-        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PY-251.26094.141" />
+        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
       </set>
     </attachedChunks>
   </component>
@@ -146,7 +144,9 @@
       <workItem from="1749073074160" duration="1510000" />
       <workItem from="1749075462094" duration="265000" />
       <workItem from="1749076188352" duration="256000" />
-      <workItem from="1749116913352" duration="332000" />
+      <workItem from="1749116913352" duration="1941000" />
+      <workItem from="1750875292044" duration="42000" />
+      <workItem from="1751301244763" duration="1258000" />
     </task>
     <task id="LOCAL-00001" summary="changes 28.03.2025">
       <option name="closed" value="true" />
@@ -188,7 +188,39 @@
       <option name="project" value="LOCAL" />
       <updated>1749117215854</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update ide file">
+      <option name="closed" value="true" />
+      <created>1749117261484</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1749117261484</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add test file to play around">
+      <option name="closed" value="true" />
+      <created>1749117278484</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1749117278484</updated>
+    </task>
+    <task id="LOCAL-00008" summary="overview">
+      <option name="closed" value="true" />
+      <created>1749117289416</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1749117289416</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add gan networks">
+      <option name="closed" value="true" />
+      <created>1749117309976</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1749117309976</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +242,9 @@
     <MESSAGE value="comment out apple requirement" />
     <MESSAGE value="add image generation" />
     <MESSAGE value="update ide file" />
-    <option name="LAST_COMMIT_MESSAGE" value="update ide file" />
+    <MESSAGE value="add test file to play around" />
+    <MESSAGE value="overview" />
+    <MESSAGE value="add gan networks" />
+    <option name="LAST_COMMIT_MESSAGE" value="add gan networks" />
   </component>
 </project>
